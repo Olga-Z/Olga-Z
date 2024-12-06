@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![C9X](https://github.com/user-attachments/assets/1bb4ac80-7597-4a10-b572-d6514bbbf079)
 
 
 <!--
@@ -47,4 +46,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="Visual Studio Icon"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="CSharp Icon"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium Icon"/>
-          
+
+---
+
+ <h3> Just for fun: </h3>
+ 
+![C9X](https://github.com/user-attachments/assets/1bb4ac80-7597-4a10-b572-d6514bbbf079)
