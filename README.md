@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-My name is Olga. I am a QA Engineer.
+Меня зовут Ольга. Я тестировщица.
 
 
+
+
+
+Активно разиваю свои навыки в тестировании, используя нижеперечисленные инструменты:
 
 <h3> :memo: Tools for test artifacts:  </h3>
 
@@ -33,6 +37,11 @@ My name is Olga. I am a QA Engineer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium Icon"/>
 
 ---
+ Тестирую открытый API: https://dummyapi.io/docs 
+
+ 
+Коллекция в Postman:
+
 
 <!--
 **Olga-Z/Olga-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
