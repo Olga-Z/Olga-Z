@@ -40,7 +40,7 @@
  Тестирую открытый API: https://dummyapi.io/docs 
 
  
-Коллекция в Postman:
+Коллекция в Postman (в разработке):
 
 
 <!--
