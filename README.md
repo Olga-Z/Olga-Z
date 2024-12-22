@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Меня зовут Ольга. Я тестировщица.
+My name is Olga. I'm a manual QA engineer learning to become an automation QA engineer.
 
 
 
 
 
-Активно разиваю свои навыки в тестировании, используя нижеперечисленные инструменты:
+I'm actively developing my skills in testing using the tools listed below:
 
 <h3> :memo: Tools for test artifacts:  </h3>
 
@@ -37,10 +37,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium Icon"/>
 
 ---
- Тестирую открытый API: https://dummyapi.io/docs 
+ Testing open API: https://dummyapi.io/docs 
 
  
-Коллекция в Postman (в разработке):
+Collection in Postman (in the process of developing ):
 
 
 <!--
